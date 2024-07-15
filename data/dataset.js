@@ -4,7 +4,7 @@ export default [
     "name": "Red Dead Redemption 2",
     "shortDescription": "Western épico de mundo abierto.",
     "description": "Red Dead Redemption 2 es un juego de acción y aventura desarrollado por Rockstar Games. Ambientado en 1899, sigue la historia de Arthur Morgan, un forajido miembro de la banda de Dutch van der Linde, mientras lidian con la desaparición del viejo oeste. El juego presenta un vasto mundo abierto lleno de vida, detallado y dinámico, con una narrativa profunda y emotiva. Los jugadores pueden cazar, pescar, montar a caballo, y explorar diversas actividades, mientras se enfrentan a dilemas morales que afectan el desenlace de la historia.",
-    "imageUrl": "/img/RDR2.jpeg",
+    "imageUrl": "./img/RDR2.jpeg",
     "facts": {
       "category": "Acción",
       "yearOfCreation": "2018",
