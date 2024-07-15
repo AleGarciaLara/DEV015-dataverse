@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'ROG Font';
-    src: url(../Typografia/ROGFonts.otf);
+    src: url(./Typografia/ROGFonts.otf);
 }
 
 body {
-    background-image: url("../img/FONDO\ M.jpg");
+    background-image: url("./img/FONDO\ M.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
